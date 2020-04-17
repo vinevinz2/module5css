@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-top: 2px dotted grey;
+  border-bottom: 0;
+  border-right: 0;
+  border-left: 0;
+  border-width: 5px;
+  width: 50px;
+  margin-bottom: 50px;
+}
+.top-cont {
+  background-color: #e3fdfd;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.sub-heading{
+  line-height: 2;
+  font-weight: normal;
+}
+.entr{
+  text-decoration: underline;
+}
+/* PROFILE SECTION CSS */
+
+.profile{
+  max-width: 30%;
+  margin: 50px auto;
+  line-height: 2;
+}
+.toilet-img{
+  max-width: 25%;
+}
+
+/* SKILL ROW SECTION CSS */
+
+.skill-row{
+  max-width: 50%;
+  margin: 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer-img{
+  border-radius: 50%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies-img{
+  width: 20%;
+  float: right;
+  margin-left: 5px;
+}
+
+/* CONTACT ME CSS */
+
+.contact-me{
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+}
+
+.myButton {
+  margin-top: 30px;
+	background-color:#71c2a7;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#4e917b;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/* BOTTOM CONTAINER CSS */
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 50px auto 0 auto;
+  padding-top: 40px;
+}
+.footer-link{
+  margin: 30px 20px 30px 20px;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+}
+.credit{
+  color: #EAF6F6;
+  margin-top: 50px;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  font-size: 0.9rem;
+}
+
+a:link{
+  color: #11999E;
+}
+a:visited{
+  color: #11990F;
+}
