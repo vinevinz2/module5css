@@ -81,7 +81,7 @@ hr{
 /* CONTACT ME CSS */
 
 .contact-me{
-  width: 40%;
+  max-width: 40%;
   margin: auto;
   line-height: 2;
 }
